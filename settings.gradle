@@ -1,0 +1,4 @@
+rootProject.name = 'platform-core'
+
+include 'service-one'
+include 'service-two'
